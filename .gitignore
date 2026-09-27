@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Power BI working files (publish screenshots instead)
+*.pbix
+
+# Freshly collected data (keep the original raw file in the repo)
+data/raw/fos_banking_decisions_new.csv
