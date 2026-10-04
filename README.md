@@ -46,7 +46,6 @@ uk-bank-complaints-ml/
 │   └── collect_fos_data.py               # re-collect or refresh the data via the Apify API
 ├── reports/figures/                      # every chart, saved as PNG
 ├── powerbi/POWERBI_GUIDE.md              # how to build the dashboard from decisions_clean.csv
-├── docs/LEARNING_GUIDE.md                # file-by-file walkthrough + interview questions
 ├── requirements.txt
 └── README.md
 ```
